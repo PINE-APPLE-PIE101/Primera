@@ -236,6 +236,7 @@
 	inhand_icon_state = "ipc_shield"
 	lefthand_file = 'modular_bandastation/species/icons/ipc/factory_tools_left.dmi'
 	righthand_file = 'modular_bandastation/species/icons/ipc/factory_tools_right.dmi'
+	slot_flags = NONE
 	block_chance = 35
 	breakable_by_damage = FALSE
 	item_flags = NONE
